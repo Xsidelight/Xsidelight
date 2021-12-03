@@ -3,6 +3,7 @@ I am a software engineer from Georgia
 - 💻 Working on multiple cross-platform projects using Flutter
 - 🌱 Learning design patterns in depth
 - 🧹 Actively practicing clean code
+- :mouse: Currently practicing Golang
 - 📚 Constantly reading to learn something new
 
 ## Connect with me!
