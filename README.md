@@ -1,10 +1,14 @@
-### Hey! :v:
+## Hey! :v:
 I am a software engineer from Georgia 
 - 💻 Working on multiple cross-platform projects using Flutter
 - 🌱 Learning design patterns in depth
 - 🧹 Actively practicing clean code
 - :mouse: Currently practicing Golang
 - 📚 Constantly reading to learn something new
+
+## My GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xsidelight&count_private=true&show_icons=true&theme=radical&hide=issues,contribs)
 
 ## Connect with me!
 
