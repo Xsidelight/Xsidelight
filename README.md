@@ -8,7 +8,7 @@ I am a software engineer from Georgia
 
 ## My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xsidelight&count_private=true&show_icons=true&theme=radical&hide=issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xsidelight&count_private=true&show_icons=true&theme=gruvbox&hide=issues,contribs)
 
 ## Connect with me!
 
