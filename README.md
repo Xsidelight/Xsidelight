@@ -1,9 +1,9 @@
 ## Hey! :v:
 I am a software engineer from Georgia 
-- 💻 Working on multiple cross-platform projects using Flutter
+- 💻 Coding coding coding
 - 🌱 Learning design patterns in depth
 - 🧹 Actively practicing clean code
-- 📚 Constantly reading to learn something new
+- 📚 Constantly reading and learning something new
 
 ## Connect with me!
 
