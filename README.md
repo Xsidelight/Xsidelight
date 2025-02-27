@@ -1,9 +1,11 @@
 ## Hey! :v:
-I am a software engineer from Georgia 
-- 💻 Coding coding coding
-- 🌱 Learning design patterns in depth
-- 🧹 Actively practicing clean code
-- 📚 Constantly reading and learning something new
+
+👨‍💻 About Me
+	•	Passionate about building scalable and maintainable software
+	•	Experienced in Flutter, Golang, mobile and backend development
+	•	Actively exploring design patterns, clean code, and software architecture
+	•	Learning more about fintech, investments, and executive leadership
+	•	Leveraging AI tools like GitHub Copilot, ChatGPT, and AI-powered automation to enhance productivity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xsidelight&hide=TeX&layout=compact&theme=dark)
 
